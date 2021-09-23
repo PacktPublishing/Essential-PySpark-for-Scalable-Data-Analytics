@@ -47,7 +47,7 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-|   1-13   | Databricks                           | Windows, Mac OS X, and Linux (Any) |
+|   1-13   | Databricks, Apache Spark 3, Python   | Windows, Mac OS X, and Linux (Any)  |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800568877_ColorImages.pdf).
@@ -60,4 +60,4 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Sreeram Nudurupati**
-is a Data Analytics professional with years of experience in designing and optimizing data analytics pipelines at scale. He has a history of helping enterprises, as well as digital natives, build optimized analytics pipelines by leveraging the knowledge of the organization, infrastructure environment and current technologies
+is a data analytics professional with years of experience in designing and optimizing data analytics pipelines at scale. He has a history of helping enterprises, as well as digital natives, build optimized analytics pipelines by using the knowledge of the organization, infrastructure environment, and current technologies.
