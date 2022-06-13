@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B16736?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Essential PySpark for Scalable Data Analytics
 
 <a href="https://www.packtpub.com/product/essential-pyspark-for-scalable-data-analytics/9781800568877?utm_source=github&utm_medium=repository&utm_campaign=9781800568877"><img src="https://static.packt-cdn.com/products/9781800568877/cover/smaller" alt="Essential PySpark for Scalable Data Analytics" height="256px" align="right"></a>
